@@ -69,35 +69,6 @@ We specialize in **AI, Cloud Computing, Automation**, and **Modern Web & Mobile 
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-  <th>Project</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <td>🔵 <b>Smart IoT System</b></td>
-  <td>Real-time IoT device communication platform</td>
-</tr>
-<tr>
-  <td>🟢 <b>AI Data Platform</b></td>
-  <td>AI-powered analytics and visualization suite</td>
-</tr>
-<tr>
-  <td>🟣 <b>Bluetooth App</b></td>
-  <td>Flutter-based Serial Bluetooth Communication App</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌍 Connect With Us
 
 <div align="center">
